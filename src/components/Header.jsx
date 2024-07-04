@@ -21,7 +21,6 @@ import { AppContext } from '../Context/Context';
 import { FaCog } from 'react-icons/fa'
 import { Doctors } from '../data/doctor/doctor';
 
-
 const ThemeColor = () => {
     const themes = [
         {
